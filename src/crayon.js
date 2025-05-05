@@ -1,4 +1,4 @@
-mport Preloader from "./preloader.js";
+import Preloader from "./prelouder.js";
 import Line from "./line.js";
 let lines = [];
 let _line;
